@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Mała prosta aplikacja, która pozwala zapisywać sobie rzeczy, które mamy do zrobienia. Klikając na daną rzecz usuwamy ją z listy.
 
 ## Available Scripts
 
