@@ -1,0 +1,22 @@
+body {
+    padding: 50px;
+    background-color: teal;
+    background: #6A89A4;
+    background: -moz-linear-gradient(left, #6A89A4 0%, #A8BFCB 50%, #FFFFFF 100%);
+    background: -webkit-linear-gradient(left, #6A89A4 0%, #A8BFCB 50%, #FFFFFF 100%);
+    background: linear-gradient(to right, #6A89A4 0%, #A8BFCB 50%, #FFFFFF 100%);
+    font-family: fantasy;
+}
+
+.App {
+    background-color: slategrey;
+    min-height: 500px;
+    width: 400px;
+    margin: 40px auto;
+    border-radius: 5px;
+} 
+
+#container {
+    display: flex;
+    justify-content: flex;
+}
